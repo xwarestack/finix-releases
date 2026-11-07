@@ -1,6 +1,6 @@
 # Finix
 
-Installers and updates for **Finix**, by XWARE Engineering and Technology.
+Installers and updates for **Finix**, by XWARE.
 
 **[Download the latest version](https://github.com/xwarestack/finix-releases/releases/latest)**: `Finix-Setup-<version>.exe` (Windows).
 
@@ -10,6 +10,6 @@ A Finix licence is required to use the app. This repository contains no source c
 
 ---
 
-**FR** · Installateurs et mises à jour de Finix. [Télécharger la dernière version](https://github.com/xwarestack/finix-releases/releases/latest). Une licence Finix est nécessaire pour utiliser l’application ; une fois installée, Finix se met à jour toute seule.
+**FR** · Installateurs et mises à jour de Finix, par XWARE. [Télécharger la dernière version](https://github.com/xwarestack/finix-releases/releases/latest). Une licence Finix est nécessaire pour utiliser l’application ; une fois installée, Finix se met à jour toute seule.
 
-**NL** · Installatiebestanden en updates van Finix. [Download de nieuwste versie](https://github.com/xwarestack/finix-releases/releases/latest). Een Finix-licentie is nodig om de toepassing te gebruiken; eenmaal geïnstalleerd werkt Finix zichzelf bij.
+**NL** · Installatiebestanden en updates van Finix, door XWARE. [Download de nieuwste versie](https://github.com/xwarestack/finix-releases/releases/latest). Een Finix-licentie is nodig om de toepassing te gebruiken; eenmaal geïnstalleerd werkt Finix zichzelf bij.
